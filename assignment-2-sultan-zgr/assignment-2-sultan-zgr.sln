@@ -3,7 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SipayApi.BaseLayer", "SipayApi.Base\SipayApi.BaseLayer.csproj", "{4FE8DA5C-7B16-4307-9E38-E347EB89312B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SipayApi.DataLayer", "SipayApi.Data\SipayApi.DataLayer.csproj", "{E7CC0070-6702-4DF3-B299-F6D22F93B8C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SipayApi.SchemaLayer", "SipayApi.Schema\SipayApi.SchemaLayer.csproj", "{285D060E-62E3-43F7-8704-3CADC4955841}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SipayApi.Api", "SipayApi.Api\SipayApi.Api.csproj", "{0BA827D3-5275-44D4-B32F-9D2F4F611A2F}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FE8DA5C-7B16-4307-9E38-E347EB89312B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE8DA5C-7B16-4307-9E38-E347EB89312B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE8DA5C-7B16-4307-9E38-E347EB89312B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE8DA5C-7B16-4307-9E38-E347EB89312B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7CC0070-6702-4DF3-B299-F6D22F93B8C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7CC0070-6702-4DF3-B299-F6D22F93B8C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7CC0070-6702-4DF3-B299-F6D22F93B8C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7CC0070-6702-4DF3-B299-F6D22F93B8C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{285D060E-62E3-43F7-8704-3CADC4955841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285D060E-62E3-43F7-8704-3CADC4955841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285D060E-62E3-43F7-8704-3CADC4955841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285D060E-62E3-43F7-8704-3CADC4955841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BA827D3-5275-44D4-B32F-9D2F4F611A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA827D3-5275-44D4-B32F-9D2F4F611A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA827D3-5275-44D4-B32F-9D2F4F611A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA827D3-5275-44D4-B32F-9D2F4F611A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

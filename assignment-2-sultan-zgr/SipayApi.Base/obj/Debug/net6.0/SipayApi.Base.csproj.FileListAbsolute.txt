@@ -1,0 +1,12 @@
+D:\278-Sipay\Yeni klasör\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\bin\Debug\net6.0\SipayApi.Base.deps.json
+D:\278-Sipay\Yeni klasör\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\bin\Debug\net6.0\SipayApi.Base.dll
+D:\278-Sipay\Yeni klasör\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\bin\Debug\net6.0\SipayApi.Base.pdb
+D:\278-Sipay\Yeni klasör\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\SipayApi.Base.csproj.AssemblyReference.cache
+D:\278-Sipay\Yeni klasör\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\SipayApi.Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\278-Sipay\Yeni klasör\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\SipayApi.Base.AssemblyInfoInputs.cache
+D:\278-Sipay\Yeni klasör\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\SipayApi.Base.AssemblyInfo.cs
+D:\278-Sipay\Yeni klasör\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\SipayApi.Base.csproj.CoreCompileInputs.cache
+D:\278-Sipay\Yeni klasör\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\SipayApi.Base.dll
+D:\278-Sipay\Yeni klasör\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\refint\SipayApi.Base.dll
+D:\278-Sipay\Yeni klasör\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\SipayApi.Base.pdb
+D:\278-Sipay\Yeni klasör\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\ref\SipayApi.Base.dll
