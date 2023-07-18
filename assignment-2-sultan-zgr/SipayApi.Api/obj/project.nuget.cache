@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IAlgTZxXgnRW5rxnFwIiQxeMVb3yz35Zjum6jgeQKNWls02qULZTjmyNeGvKsj3z1gP0qLxhW+R+YFVXO9Iawg==",
+  "success": true,
+  "projectFilePath": "D:\\278-Sipay\\Yeni klasör\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Api\\SipayApi.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sulta\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\sulta\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sulta\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\sulta\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\sulta\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\sulta\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
