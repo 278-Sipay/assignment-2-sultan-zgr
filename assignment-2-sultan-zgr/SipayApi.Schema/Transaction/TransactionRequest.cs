@@ -1,4 +1,4 @@
-﻿namespace SipayApi;
+﻿namespace SipayApi.Schema;
 
 public class TransactionRequest
 {

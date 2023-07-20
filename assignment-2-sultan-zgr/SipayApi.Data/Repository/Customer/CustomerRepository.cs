@@ -1,9 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SipayApi.Data.Domain;
+using SipayApi.Data.DBContext;
+using SipayApi.DataLayer.Entities;
 
 namespace SipayApi.Data.Repository;
 
-public class CustomerRepository : GenericRepository<Customer>, ICustomerRepository
+public class CustomerRepository : GenericRepository<Customer>
 {
     private readonly SimDbContext dbContext;
     public CustomerRepository(SimDbContext dbContext) : base(dbContext)

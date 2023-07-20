@@ -1,4 +1,4 @@
-﻿using SipayApi.Data.Domain;
+﻿using SipayApi.DataLayer.Entities;
 
 namespace SipayApi.Data.Repository;
 

@@ -7,13 +7,7 @@ public class MapperConfig : Profile
 {
     public MapperConfig()
     {
-        CreateMap<CustomerRequest, Customer>();
-        CreateMap<Customer, CustomerResponse>();
-
-        CreateMap<AccountRequest, Account>();
-        CreateMap<Account, AccountResponse>();
-
-        CreateMap<TransactionRequest, Transaction>();
+        CreateMap<TransactionRequest,Transaction>();  //ÖDEV
         CreateMap<Transaction, TransactionResponse>();
     }
 }

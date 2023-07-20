@@ -180,3 +180,7 @@ D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Api\obj\De
 D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Api\obj\Debug\net6.0\SipayApi.Api.pdb
 D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Api\obj\Debug\net6.0\SipayApi.Api.genruntimeconfig.cache
 D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Api\obj\Debug\net6.0\ref\SipayApi.Api.dll
+D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Api\bin\Debug\net6.0\AutoMapper.dll
+D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Api\bin\Debug\net6.0\Dapper.dll
+D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Api\bin\Debug\net6.0\SipayApi.Schema.dll
+D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Api\bin\Debug\net6.0\SipayApi.Schema.pdb

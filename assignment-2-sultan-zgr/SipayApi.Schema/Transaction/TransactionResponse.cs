@@ -1,6 +1,5 @@
 ﻿namespace SipayApi;
 
-
 public class TransactionResponse
 {
     public int AccountNumber { get; set; }

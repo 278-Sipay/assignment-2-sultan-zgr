@@ -1,6 +1,10 @@
+using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using SipayApi.Data.DBContext;
+using SipayApi.Data.Repository;
+using SipayApi.DataLayer.Entities;
+using SipayApi.Schema;
 
 namespace SipayApi.Api;
 
@@ -27,8 +31,20 @@ public class Startup
             var dbConfig = Configuration.GetConnectionString("MsSqlConnection");
             services.AddDbContext<SimDbContext>(opts =>
             opts.UseSqlServer(dbConfig));
-        
-     
+
+
+        services.AddScoped<ITransactionRepository, TransactionRepository>();
+
+        //AutoMappere
+
+        var config = new MapperConfiguration(cfg =>
+        {
+            cfg.AddProfile(new MapperConfig());
+        });
+        services.AddSingleton(config.CreateMapper());
+
+
+
 
 
     }

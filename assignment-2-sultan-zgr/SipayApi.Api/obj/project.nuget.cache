@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "e+faIdSGxtiL4SxLcym6lg/p8btrtW3+iHY+jSg1b9gOAZX47nVhDTfPGTUpY49+jjddlI2u+ZfWHeEw8b8KpA==",
+  "dgSpecHash": "H26IKUOcrOgNS+xJ1q/NHeALuLRV0NqzSP0ohM4QjpifUydxnhdOdgsrAQt95anpo4mxYgbYoe1Gc5D6m1/K0w==",
   "success": true,
   "projectFilePath": "D:\\278-Sipay\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Api\\SipayApi.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sulta\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\sulta\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\sulta\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\sulta\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
     "C:\\Users\\sulta\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\sulta\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\sulta\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
