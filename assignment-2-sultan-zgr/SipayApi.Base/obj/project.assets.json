@@ -3517,11 +3517,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\278-Sipay\\Yeni klasör\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Base\\SipayApi.BaseLayer.csproj",
+      "projectUniqueName": "D:\\278-Sipay\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Base\\SipayApi.BaseLayer.csproj",
       "projectName": "SipayApi.BaseLayer",
-      "projectPath": "D:\\278-Sipay\\Yeni klasör\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Base\\SipayApi.BaseLayer.csproj",
+      "projectPath": "D:\\278-Sipay\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Base\\SipayApi.BaseLayer.csproj",
       "packagesPath": "C:\\Users\\sulta\\.nuget\\packages\\",
-      "outputPath": "D:\\278-Sipay\\Yeni klasör\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Base\\obj\\",
+      "outputPath": "D:\\278-Sipay\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Base\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

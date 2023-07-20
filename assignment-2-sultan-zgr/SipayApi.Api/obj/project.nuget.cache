@@ -1,14 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "MWYrVszJ5hTvHvWP5+XmM6s3jZdqwsQVGBz/8BD4tCgGRn5VNAAcNstR3MtSsq0km+ip7af1K1vhmym+sNn5BA==",
+  "dgSpecHash": "e+faIdSGxtiL4SxLcym6lg/p8btrtW3+iHY+jSg1b9gOAZX47nVhDTfPGTUpY49+jjddlI2u+ZfWHeEw8b8KpA==",
   "success": true,
-  "projectFilePath": "D:\\278-Sipay\\Yeni klasör\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Api\\SipayApi.Api.csproj",
+  "projectFilePath": "D:\\278-Sipay\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Api\\SipayApi.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\sulta\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\sulta\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\sulta\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\sulta\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\sulta\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\sulta\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\sulta\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\sulta\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.2\\microsoft.data.sqlclient.5.0.2.nupkg.sha512",
     "C:\\Users\\sulta\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\sulta\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",

@@ -12,3 +12,17 @@ D:\278-Sipay\Yeni klasör\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayA
 D:\278-Sipay\Yeni klasör\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\SipayApi.BaseLayer.pdb
 D:\278-Sipay\Yeni klasör\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\SipayApi.BaseLayer.genruntimeconfig.cache
 D:\278-Sipay\Yeni klasör\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\ref\SipayApi.BaseLayer.dll
+D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\bin\Debug\net6.0\SipayApi.BaseLayer.deps.json
+D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\bin\Debug\net6.0\SipayApi.BaseLayer.runtimeconfig.json
+D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\bin\Debug\net6.0\SipayApi.BaseLayer.dll
+D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\bin\Debug\net6.0\SipayApi.BaseLayer.pdb
+D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\SipayApi.BaseLayer.csproj.AssemblyReference.cache
+D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\SipayApi.BaseLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\SipayApi.BaseLayer.AssemblyInfoInputs.cache
+D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\SipayApi.BaseLayer.AssemblyInfo.cs
+D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\SipayApi.BaseLayer.csproj.CoreCompileInputs.cache
+D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\SipayApi.BaseLayer.dll
+D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\refint\SipayApi.BaseLayer.dll
+D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\SipayApi.BaseLayer.pdb
+D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\SipayApi.BaseLayer.genruntimeconfig.cache
+D:\278-Sipay\assignment-2-sultan-zgr\assignment-2-sultan-zgr\SipayApi.Base\obj\Debug\net6.0\ref\SipayApi.BaseLayer.dll

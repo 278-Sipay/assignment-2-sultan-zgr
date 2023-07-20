@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M638oAGVQBnQM6CROTzfPxU0eyV/6OWzDJM2ccbUEBrcOypySg2KA4NgtQVTBhg/EV2c38aBN7UnBU0GNbdF+A==",
+  "dgSpecHash": "3bSQp+kf1BdmVqh3voIHeXkgiDK6isAsLs+vYCW3oSotnX2vA0eJA82K44rsj7ywu/vLF5NyDblOVlIs855kEg==",
   "success": true,
-  "projectFilePath": "D:\\278-Sipay\\Yeni klasör\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Base\\SipayApi.BaseLayer.csproj",
+  "projectFilePath": "D:\\278-Sipay\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Base\\SipayApi.BaseLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sulta\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\sulta\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\278-Sipay\\Yeni klasör\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Data\\SipayApi.DataLayer.csproj": {}
+    "D:\\278-Sipay\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Data\\SipayApi.DataLayer.csproj": {}
   },
   "projects": {
-    "D:\\278-Sipay\\Yeni klasör\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Base\\SipayApi.BaseLayer.csproj": {
+    "D:\\278-Sipay\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Base\\SipayApi.BaseLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\278-Sipay\\Yeni klasör\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Base\\SipayApi.BaseLayer.csproj",
+        "projectUniqueName": "D:\\278-Sipay\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Base\\SipayApi.BaseLayer.csproj",
         "projectName": "SipayApi.BaseLayer",
-        "projectPath": "D:\\278-Sipay\\Yeni klasör\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Base\\SipayApi.BaseLayer.csproj",
+        "projectPath": "D:\\278-Sipay\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Base\\SipayApi.BaseLayer.csproj",
         "packagesPath": "C:\\Users\\sulta\\.nuget\\packages\\",
-        "outputPath": "D:\\278-Sipay\\Yeni klasör\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Base\\obj\\",
+        "outputPath": "D:\\278-Sipay\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Base\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -85,14 +85,14 @@
         }
       }
     },
-    "D:\\278-Sipay\\Yeni klasör\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Data\\SipayApi.DataLayer.csproj": {
+    "D:\\278-Sipay\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Data\\SipayApi.DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\278-Sipay\\Yeni klasör\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Data\\SipayApi.DataLayer.csproj",
+        "projectUniqueName": "D:\\278-Sipay\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Data\\SipayApi.DataLayer.csproj",
         "projectName": "SipayApi.DataLayer",
-        "projectPath": "D:\\278-Sipay\\Yeni klasör\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Data\\SipayApi.DataLayer.csproj",
+        "projectPath": "D:\\278-Sipay\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Data\\SipayApi.DataLayer.csproj",
         "packagesPath": "C:\\Users\\sulta\\.nuget\\packages\\",
-        "outputPath": "D:\\278-Sipay\\Yeni klasör\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Data\\obj\\",
+        "outputPath": "D:\\278-Sipay\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -113,8 +113,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\278-Sipay\\Yeni klasör\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Base\\SipayApi.BaseLayer.csproj": {
-                "projectPath": "D:\\278-Sipay\\Yeni klasör\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Base\\SipayApi.BaseLayer.csproj"
+              "D:\\278-Sipay\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Base\\SipayApi.BaseLayer.csproj": {
+                "projectPath": "D:\\278-Sipay\\assignment-2-sultan-zgr\\assignment-2-sultan-zgr\\SipayApi.Base\\SipayApi.BaseLayer.csproj"
               }
             }
           }
@@ -129,6 +129,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.9, )"
