@@ -1,3 +1,9 @@
+# TransactionController - GetByParameter API 📝
+Required  📫
+- Filter criteria: AccountNumber, MinAmountCredit, MaxAmountCredit, MinAmountDebit, MaxAmountDebit, Description, BeginDate, EndDate, and ReferenceNumber.
+- The fields AccountNumber and ReferenceNumber will be used with the equality operator (==).
+- The fields AccountNumber and ReferenceNumber will be used with the equality operator (==).
+- The BeginDate and EndDate fields will be used for range-based searches.
 
 ## Data Layer
 We are creating our Transaction model in the data layer and inheriting it from the IdBaseModel.
