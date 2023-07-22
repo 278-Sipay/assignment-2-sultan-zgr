@@ -9,5 +9,6 @@ public class MapperConfig : Profile
     {
         CreateMap<TransactionRequest,Transaction>();  //ÖDEV
         CreateMap<Transaction, TransactionResponse>();
+        CreateMap<TransactionSearchRequest, Transaction>().ReverseMap();
     }
 }

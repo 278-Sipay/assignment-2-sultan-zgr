@@ -34,6 +34,7 @@ public class Startup
 
 
         services.AddScoped<ITransactionRepository, TransactionRepository>();
+   
 
         //AutoMappere
 
